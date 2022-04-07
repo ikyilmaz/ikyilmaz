@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning mobile development
 - 📫 How to reach me: ismailkurbanyilmaz@gmail.com
 
-[![His GitHub stats](https://github-readme-stats.vercel.app/api?username=ikyilmaz&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![His GitHub stats](https://github-readme-stats.vercel.app/api?username=ikyilmaz&theme=highcontrast&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
   
